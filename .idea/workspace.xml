@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="873e5d71-efc5-4d61-8ed8-a3236a5fd847" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array_diff_key.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array_diff_uassoc.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="array_function.iws" />
@@ -48,8 +48,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="array_diff_key.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="array_diff_key.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/array_diff_key.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="array_diff_uassoc.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/array_diff_uassoc.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -72,6 +82,7 @@
         <option value="$PROJECT_DIR$/array_combine.php" />
         <option value="$PROJECT_DIR$/array_count_values.php" />
         <option value="$PROJECT_DIR$/array_diff_assoc.php" />
+        <option value="$PROJECT_DIR$/array_diff_key.php" />
       </list>
     </option>
   </component>
@@ -268,6 +279,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/array_diff_key.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_diff_uassoc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="381">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
